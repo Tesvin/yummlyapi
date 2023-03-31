@@ -1,0 +1,7 @@
+module.exports = {
+    method: 'GET',
+    headers: {
+      'X-RapidAPI-Key' : 'a341921e01msh06705c8228a50b8p1c874bjsnb51333fe1d85',
+      'X-RapidAPI-Host' : 'yummly2.p.rapidapi.com'
+  } 
+};
